@@ -1,0 +1,12 @@
+#Appsnote:
+
+Sudo 
+Zsh
+Nano
+vim
+--------
+sqlite3
+git
+Python3
+pip3
+
